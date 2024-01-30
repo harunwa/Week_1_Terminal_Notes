@@ -15,7 +15,7 @@
 `ls -al`
 #### This command results in a list of files and folders along with any hidden files we originally cannot see. ####
 ### *Finding our way around:* ###
-### **How do i get there?** ###
+### **How do I get there?** ###
 `cd`
 #### This command is short for *(change directory)* and is used to change our location to a different directory stated after the command (*use tab to see options*) or if inputed alone - will take us to our home directory.
 ### **How do I go back?** ###
