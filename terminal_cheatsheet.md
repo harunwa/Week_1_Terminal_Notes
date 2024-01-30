@@ -32,7 +32,7 @@
 `open <name of file>`
 #### This command is used to open the specificed file. ####
 ### *Moving files around:* ###
-### **How do I move it** ###
+### **How do I move it?** ###
 `mv <name of file> <.. or destination name>`
 #### This command is used to move a specified file either above *(..)* or to a specific destination *(directory name)* ####
 #### *important to note that . is the current directory and .. is the directory above* ####
